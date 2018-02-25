@@ -1,0 +1,38 @@
+.one {
+    margin-bottom: 20px;
+}
+
+/* .two {
+    margin-top: 20;
+} */
+
+.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+.topnav a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navminor a {
+    color: #777777;
+}
+
+.navminor {
+    float: right;
+}
+
+#camHome {
+    background-color: #4aaaa5;
+    float: left;
+    color: #ffffff;
+    
+
+}
